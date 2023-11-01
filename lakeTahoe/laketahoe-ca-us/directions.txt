@@ -1,0 +1,14 @@
+route_id,direction_id,direction
+2596,1,Westbound
+2596,0,Eastbound
+2595,0,Eastbound
+2594,1,Westbound
+2594,0,Eastbound
+ML,1,Eastbound
+ML,0,Westbound
+Hwy89,1,Southbound
+Hwy89,0,Northbound
+Hwy267,1,Southbound
+Hwy267,0,Northbound
+TLR,1,Eastbound
+TLR,0,Westbound
