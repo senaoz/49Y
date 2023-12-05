@@ -1,3 +1,0 @@
-service_id,service_description
-c_18269_b_23399_d_127,Year Round NEW (All days of week)
-c_17881_b_81456_d_127,Fall Schedules / Spring (All days of week)
