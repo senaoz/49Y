@@ -1,0 +1,4 @@
+service_id,service_description
+261.0.1, Weekday
+261.0.2, Saturday
+261.0.3, Sunday/Holiday

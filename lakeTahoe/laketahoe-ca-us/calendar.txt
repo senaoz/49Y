@@ -1,3 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_18269_b_23399_d_127,Year Round NEW (All days of week),1,1,1,1,1,1,1,20191202,20240201
-c_17881_b_81456_d_127,Fall Schedules / Spring (All days of week),1,1,1,1,1,1,1,20230905,20231213

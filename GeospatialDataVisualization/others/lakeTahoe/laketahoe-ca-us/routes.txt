@@ -1,0 +1,8 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+16,2596,Blue,"Carnelian Bay Tahoe Vista, Kings Beach, Crystal Bay, Incline Village",North Lake Tahoe Express - Blue Route,3,http://www.northlaketahoeexpress.com/routes/,139deb,000000,15,,0,1,1,,
+16,2594,Red,"Squaw Valley, Tahoe City, West Shore",,3,http://www.northlaketahoeexpress.com/routes/,c40d20,ffffff,16,,0,1,1,,
+16,2595,Green,"Truckee, Northstar",,3,http://www.northlaketahoeexpress.com/routes/,35a239,000000,17,,0,1,1,,
+904,Hwy267,Hwy267,Highway 267 AM/PM,,3,https://tahoetruckeetransit.com/routes/route-hwy267/,f50505,000000,3,,0,1,1,,
+904,Hwy89,Hwy89,Highway 89 AM/PM,,3,https://tahoetruckeetransit.com/routes/route-hwy89/,e0b909,000000,5,,0,1,1,,
+904,ML,ML,Mainline AM/PM,,3,https://tahoetruckeetransit.com/routes/route-ml/,11a3ba,000000,6,,0,1,1,,
+904,TLR,TLR,Truckee Local,,3,https://tahoetruckeetransit.com/routes/route-tlr/,83f05b,000000,7,,0,1,1,,
