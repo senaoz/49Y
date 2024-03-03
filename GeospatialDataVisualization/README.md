@@ -1,5 +1,5 @@
 
-## Bogazici University - MIS 49Y - Applied Machine Learning Course
+## Bogazici University - MIS 49Y: Applied Machine Learning Course
 
 # Istanbul sea transportation system analysis for September 2023
 
