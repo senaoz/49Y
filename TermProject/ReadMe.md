@@ -19,6 +19,8 @@ interaction terms. Data preprocessing covers handling dates,
 encoding categorical data, addressing outliers, and scaling
 features.
 
+<hr />
+
 **Data Description**: The dataset contains 14 columns and 8760 rows. The columns are as follows:
 - Date: The date of the data
 - Rented Bike Count: The count of rented bikes
